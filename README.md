@@ -2,7 +2,7 @@
  
  Create lib
  ```lua
-local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/loglizzy/lib/main/main.lua'))()
+local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Txhx213/TaptUI/main/main.lua'))()
 ```
  Create Window
  ```lua
